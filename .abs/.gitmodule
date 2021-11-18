@@ -1,0 +1,6 @@
+[submodule "koalas-feedstock" ]
+    path = include/foo
+    branch = master
+	url = ../koalas-feedstock
+
+
